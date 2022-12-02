@@ -1,0 +1,19 @@
+"""
+Answers to 'Theorical Neuroscience, Dayan-Abbott (2001)' exersises
+Chapter 1 : Firing Rates and Spike Statistics
+Question 5
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Mahdi Fallah
+https://github.com/fallahtp
+fallahtp@gmail.com
+"""
+
+Answer ----->> The Poisson Process with a constant rate, generates every sequence of N spikes
+               with equal probability, but because we can generate very large number of spike 
+               sequences, and number of spike sequences that all its spikes happened in the 
+               first 1% of time interval is very small compair to the total number of possible
+               spike trains, it has very low chance that we see such a sequence. 
+
+
+
+
